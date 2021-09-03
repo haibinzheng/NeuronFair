@@ -16,9 +16,9 @@ Please install the following:
 
 #### Instructions
 >NeuronFair
->>LICENSE
->>README.en.md
->>clusters
+>>LICENSE \\
+>>README.en.md\\
+>>clusters\\
 >>datasets
 >>models
 >>nf_data

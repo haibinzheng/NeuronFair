@@ -95,9 +95,10 @@ If you find this code useful for your research, please consider citing:
 ```
 @inproceedings{Zheng2021NeuronFair,
   title={NeuronFair: Interpretable White-Box Fairness Testing through Biased Neuron Identification},
-  author={},
-  booktitle={},
-  year={2021}
+  author={Haibin Zheng, Zhiqing Chen, Tianyu Du, Xuhong Zhang, Yao Cheng, Shouling Ji, Jingyi Wang, Yue Yu, and Jinyin Chen*},
+  booktitle={The 44th International Conference on Software Engineering (ICSE 2022), May 21-29, 2022, Pittsburgh, PA, USA},
+  pages = {1--13},
+  year={2022}
 }
 ```
 

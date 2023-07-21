@@ -94,12 +94,15 @@ The generated testing instances will be stored in the output.
 If you find this code useful for your research, please consider citing:
 
 ```
-@inproceedings{Zheng2021NeuronFair,
-  title={NeuronFair: Interpretable White-Box Fairness Testing through Biased Neuron Identification},
-  author={Haibin Zheng, Zhiqing Chen, Tianyu Du, Xuhong Zhang, Yao Cheng, Shouling Ji, Jingyi Wang, Yue Yu, and Jinyin Chen*},
-  booktitle={The 44th International Conference on Software Engineering (ICSE 2022), May 21-29, 2022, Pittsburgh, PA, USA},
-  pages = {1--13},
-  year={2022}
+@inproceedings{Zheng2022NeuronFair,
+   author = {Zheng, Haibin and Chen, Zhiqing and Du, Tianyu and Zhang, Xuhong and Cheng, Yao and Ji, Shouling and Wang, Jingyi and Yu, Yue and Chen, Jinyin},
+   title = {NeuronFair: Interpretable White-Box Fairness Testing through Biased Neuron Identification},
+   booktitle = {44th International Conference on Software Engineering},
+   address = {New York, NY, USA},
+   pages = {1-13},
+   date = {May 21–29},
+   publisher = {{ACM}},
+   year = {2022}
 }
 ```
 

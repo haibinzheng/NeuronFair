@@ -91,7 +91,7 @@ The generated testing instances will be stored in the output.
 
 #### Citation
 
-A technical description of CertPri is available in this
+A technical description of NeuronFair is available in this
 [paper](https://dl.acm.org/doi/abs/10.1145/3510003.3510123). Below is the bibtex entry for this paper.
 If you find this code useful for your research, please consider citing:
 
